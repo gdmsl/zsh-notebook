@@ -1,7 +1,18 @@
-###### my <code>[ oh-my-zsh ](https://github.com/robbyrussell/oh-my-zsh/)</code>, theme
-======
-### Theme
-1. Notebook - I call it notebook because, it felt right, and I designed it in a notebook. And it worked there, so it seems to work here too.
+# My [`oh-my-zsh`](https://github.com/robbyrussell/oh-my-zsh), theme
 
-![Notebook!!](https://github.com/robbyrussell/oh-my-zsh/)
+## Notebook
+**A simple clean yet functional theme for ZSH**
+![Notebook](http://imgur.com/dTMsG76.png)
+
+
+
+
+## Installation
+You know how...? You installed ZSH & oh-my-zsh ;) 
+
+```bash
+ZSH_THEME="notebook"
+```
+
+Knock yourself out kids xD
 
